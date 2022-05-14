@@ -1,0 +1,6 @@
+pages:
+  script:
+    - echo "Publishing to gitlab pages!"
+  artifacts:
+    paths:
+      - public
