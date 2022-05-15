@@ -5,7 +5,7 @@ const app = new PIXI.Application({
     width: 320,
     height: 320,
     backgroundColor: 0xF49097,
-    resolution: window.devicePixelRatio || 1,
+    resolution: 1,
     forceCanvas: true
 });
 
