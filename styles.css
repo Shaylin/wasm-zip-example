@@ -71,4 +71,11 @@ a {
 .pixi-container {
     width: 320px;
     height: 320px;
+    max-width: 320px;
+    max-height: 320px;
+}
+
+.pixi-container canvas{
+    max-width: 320px;
+    max-height: 320px;
 }
